@@ -1,4 +1,4 @@
-package BOJ2744;
+package Part1.Ch01.BOJ2744;
 
 import java.util.*;
 
